@@ -1,0 +1,13 @@
+name: AZMinion
+version: 1.0.0
+main: BeeAZ\AZMinion\Main
+api: 5.0.0
+author: BeeAZ
+depend: [AZFishingRod] 
+commands:
+  minion:
+    description: Nhận trứng Minion
+    permission: azminion.command
+permissions:
+  azminion.command:
+    default: op
