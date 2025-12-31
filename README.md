@@ -95,7 +95,7 @@ Plugin được thiết kế **tối ưu hiệu suất (Anti-Lag)**, tích hợp
 ## 📌 Ghi Chú
 - Plugin được thiết kế hướng **hiệu suất & mở rộng**
 - Phù hợp cho server đông người chơi
-- Dễ dàng tích hợp với hệ sinh thái plugin AZ
+- Dễ dàng tích hợp 
 
 ---
 
